@@ -1,7 +1,6 @@
 ### Olá, meu nome é Gabriel 👋
 
-- 🔭 Em busca de uma oportunidade como estagiário ou júnior, principalmente na área de Front-End
-- 🌱 Estou estudando React, JavaScript, Python
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na FATEC
-- 🎨 Gosto muito de design e tenho conhecimentos básicos em UX/UI
-- 🎙  Tenho inglês intermediário
+- 🔭 Sou Product Designer na Compass UOL.
+- 🌱 No área de programação, tenho conhecimentos em HTML, CSS, PHP, JavaScript e C#.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na FATEC.
+- 🎙  Tenho inglês intermediário.
